@@ -1,0 +1,18 @@
+1.Hiển thị menu dropdown cấp sử dụng mảng php 
+2. Hiển thị danh sách khách hàng dưới dạng bảng. Bao gồm:
++ STT
++ Họ và tên
++ Email
++ Địa chỉ
+Lưu ý: Nếu địa chỉ email bị trùng, chỉ giữ lại 1
+3. Cho trước 1 đoạn văn bản, yêu cầu đếm số lần xuất hiện các ký tự trong 
+chuỗi và hiển thị kết quả dưới dạng bảng, Bao gồm:
++ STT
++ Ký tự
++ Số lần xuất hiện
+
+Các bài tương ứng với review01.php review02.php review03.php 
+4. Tìm giá trị lớn nhất, nhỏ nhất mảng 1 chiều.
+5. Tìm thông tin khách hàng có tuổi nhỏ nhất (Mảng đa chiều)
+6. Tìm kiếm 1 giá trị bất kì trong Mảng
+7. Hiển thị menu đa cấp sử dụng giải thuật đệ quy
